@@ -22,7 +22,7 @@ def main() -> None:
 	LIMIT :limit;
 	"""
     
-	placeholder = {
+    placeholder = {
         "limit": number_of_top_customers
 	}
 
